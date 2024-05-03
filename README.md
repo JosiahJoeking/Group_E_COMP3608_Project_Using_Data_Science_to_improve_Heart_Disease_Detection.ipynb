@@ -9,7 +9,7 @@ The primary goal of this project is to develop a predictive model for assessing 
 The project employs various machine learning techniques to build and evaluate predictive models. The focus is on maximizing the F1 score in three traditional prediction algorithms, namely Decision Trees, Random Forest, and Logistic Regression. Additionally, feature importance analysis is conducted to identify the most impactful features contributing to the prediction of cardiovascular disease risk.
 
 ## Dataset
-The dataset used in this project contains a comprehensive collection of health data and lifestyle choices of individuals, including information such as age, gender, blood pressure, cholesterol levels, alcohol consumption, smoking habits, and more. The dataset is sourced from [insert source here].
+The dataset used in this project contains a comprehensive collection of health data and lifestyle choices of individuals, including information such as age, gender, blood pressure, cholesterol levels, alcohol consumption, smoking habits, and more. The datasets arr sourced from Kaggle.
 
 ## Impact
 Developing an accurate predictive model for cardiovascular disease risk assessment has the potential to revolutionize preventative medicine. By providing patients and their doctors with actionable insights into their risk, this tool can significantly reduce the prevalence of cardiovascular diseases. The ultimate aim is to raise awareness and mitigate the risk of CVD in Trinidad and Tobago, contributing to improved public health outcomes.
@@ -17,9 +17,7 @@ Developing an accurate predictive model for cardiovascular disease risk assessme
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/yourusername/CVD-risk-prediction.git`
-2. Navigate to the project directory: `cd CVD-risk-prediction`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Explore the Jupyter notebooks in the `notebooks/` directory to understand the data preprocessing, model development, and evaluation steps.
+2. Explore the Jupyter notebookto understand the data preprocessing, model development, and evaluation steps.
 
 
 ## Acknowledgements
